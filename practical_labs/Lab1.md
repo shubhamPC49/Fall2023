@@ -29,6 +29,7 @@ Use the NumPy Linear Algebra package to solve system of Linear Equations.
 
  1. *Feel free to add additional Markdown elements (description/additional comments)*
  2. *Push the notebook to your lab-submission fork, and create a PR*
+ 3. *Some points will be given based on the overall presentation of the submitted notebook, so make sure the cells are organized and accompanied with enough markdown comments and headlines for clarification*
 
        
 
@@ -51,6 +52,7 @@ Determine the singularity of the system of equations, comment on the expected so
 
  1. *Publish the notebook as an HTML using GitHub Pages* 
  2. *In the PR description (created in Part A) - add the direct link to the HTML.*
+ 3. *Some points will be given based on the overall presentation of the submitted notebook, so make sure the cells are organized and accompanied with enough markdown comments and headlines for clarification*
 
 
 ## Late Submission Policy
